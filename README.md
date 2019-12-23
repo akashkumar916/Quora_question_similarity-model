@@ -30,5 +30,5 @@ is_duplicate - the target variable, set to 1 if question1 and question2 have ess
 8. ML_model - applying XGBoost,linear SVM,logistic regression(on 797 features)<br/>
 <br/><br/>
 
-**Note main ML_Model is XGBOOST **
+**Note main ML_Model is XGBOOST**
 
